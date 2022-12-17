@@ -1,20 +1,17 @@
-# MarkDown: version one
+# Basic writing and formatting syntax
 
-**Hello World im human!**
+## Создаю заметки для GitHub используя простой syntax
 
-*I'ts me :)*
+### Основные настройки:
 
-***Get my control version!***
+**урок 1**
 
-* Designer
-* Illustrator
-* Devoloper
+* git init - началот работы
+* git add (название файла) - сохранить
+* git status - проверить статус
+* git commit фикация
+* git log - проверить f
+* git commit -m "текст комментария"
+* git diff - чем отличаются версси
 
-*Daily plan:*
-
-1. Wake up
-2. Coffee and breakfast
-3. Go to work
-4. Time for lunch
-5. Walk one hour
-6. Go to bed
+> Я буду продолжать офомлять свой конспект
